@@ -23,8 +23,7 @@ $ sudo ./ApacheAutoInstall.sh
 ```
 or
 ```
-$ sudo su (and then type your password)
-# ./ApacheAuthoInstall.sh (this # means you are under root shell)
+# ./ApacheAuthoInstall.sh (this # means you are root user)
 ```
 
 ### Installation
@@ -53,4 +52,4 @@ This project is licensed under the GNU GPL-3.0 - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * **Billie Thompson** from [PurpleBooth](https://github.com/PurpleBooth) for Readme-Template.
-* **Nicolas Hennion** from [nicolargo] (https://github.com/nicolargo) for well structured if-else condition.
+* **Nicolas Hennion** from [nicolargo](https://github.com/nicolargo) for well structured if-else condition.
