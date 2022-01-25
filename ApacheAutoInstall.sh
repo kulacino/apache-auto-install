@@ -3,8 +3,8 @@
 # Script for Apache Installation
 # Date Created: 2017-10-02
 # Version: install_apache v1.0
-# Author: Cynthia Ayu (cynthiayu)
-# Github: https://github.com/cynthiayu
+# Author: C. Ayu W. (kulacino)
+# Github: https://github.com/kulacino
 #
 
 # Start from here.
