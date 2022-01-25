@@ -43,7 +43,7 @@ This first script was v1.0. For the versions available, see the [tags on this re
 
 ## Authors
 
-* **Cynthia Ayu Windani** - *Initial work* - [kulacino](https://github.com/kulacino)
+* **C. Ayu W.** - *Initial work* - [kulacino](https://github.com/kulacino)
 
 ## License
 
